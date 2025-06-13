@@ -34,8 +34,8 @@ A modern, responsive web application for monitoring cryptocurrency wallet balanc
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/crypto-monitor.git
-   cd crypto-monitor
+   git clone https://github.com/ivem77/crypto-balance.git
+   cd crypto-balance
    ```
 
 2. **Install dependencies**
